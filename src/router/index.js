@@ -6,7 +6,6 @@ import contact from '@/components/contact'
 import rambles from '@/components/rambles'
 import poetry from '@/components/poetry'
 
-
 Vue.use(Router)
 
 export default new Router({
