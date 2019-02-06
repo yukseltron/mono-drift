@@ -2,18 +2,19 @@
   <div id="app">
     <div class="container">
       <div>
+        <router-link to="/home"><h1>Splash of Sublime</h1></router-link>
         <ul class="navbar-nav">
           <li class="nav-item">
-            <router-link to="/fiction">Fiction</router-link>
+            <router-link to="/cactuscereal">Cactus Cereal</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/poetry">Poetry</router-link>
+            <router-link to="/chimera">Chimera</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/rambles">Rambles</router-link>
+            <router-link to="/dreamsofamonster">Dreams of a Monster</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/contact">Contact</router-link>
+            <router-link to="/thelastkingbalthazar">The Last King Balthazar</router-link>
           </li>
         </ul>
       </div>
@@ -22,8 +23,3 @@
   </div>
 </template>
 <script>export default {name: 'App'}</script>
-<style>
-  #app {
-
-  }
-</style>

@@ -1,10 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import home from '@/components/home'
-import fiction from '@/components/fiction'
-import contact from '@/components/contact'
-import rambles from '@/components/rambles'
-import poetry from '@/components/poetry'
+import cactuscereal from '@/components/cactuscereal'
+import chimera from '@/components/chimera'
+import dreamsofamonster from '@/components/dreamsofamonster'
+import thelastkingbalthazar from '@/components/thelastkingbalthazar'
 
 Vue.use(Router)
 
@@ -16,24 +16,24 @@ export default new Router({
       component: home
     },
     {
-      path: '/fiction',
-      name: 'fiction',
-      component: fiction
+      path: '/cactuscereal',
+      name: 'cactuscereal',
+      component: cactuscereal
     },
     {
-      path: '/rambles',
-      name: 'rambles',
-      component: rambles
+      path: '/dreamsofamonster',
+      name: 'dreamsofamonster',
+      component: dreamsofamonster
     },
     {
-      path: '/poetry',
-      name: 'poetry',
-      component: poetry
+      path: '/chimera',
+      name: 'chimera',
+      component: chimera
     },
     {
-      path: '/contact',
-      name: 'contact',
-      component: contact
+      path: '/thelastkingbalthazar',
+      name: 'thelastkingbalthazar',
+      component: thelastkingbalthazar
     }
   ]
 })
