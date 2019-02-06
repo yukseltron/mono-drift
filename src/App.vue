@@ -2,7 +2,7 @@
   <div id="app">
     <div class="container">
       <div>
-        <router-link to="/"><h1>Sublime</h1></router-link>
+        <router-link to="/"><h1>Splash of Sublime</h1></router-link>
         <ul class="navbar-nav">
           <li class="nav-item">
             <router-link to="/cactuscereal">Cactus Cereal</router-link>

@@ -1,7 +1,6 @@
-# Yazdim
+# Splah of Sublime
 
-A blog site where I post my writings.
-Includes my poetry, short fiction, slash fiction, rambles, and scripts.
+A website to view the slash fiction writings I do for fun.
 
 All writings by Hamid Yuksel
 
