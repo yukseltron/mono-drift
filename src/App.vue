@@ -22,5 +22,4 @@
     <router-view/>
   </div>
 </template>
-<script src="./path/to/blotter.js"></script>
 <script>export default {name: 'App'}</script>
