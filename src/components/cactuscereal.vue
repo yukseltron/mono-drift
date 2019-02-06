@@ -21,8 +21,6 @@
           ||||
           ||||
 
-
-     
     "If I were a constant feedback. The amount I could annoy you would astound you."
 
     "Would it really?"
