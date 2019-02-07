@@ -1,4 +1,5 @@
- // vue.config.js
 module.exports = {
- publicPath: ‘<splash-of-sublime>’
-} 
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/splash-of-sublime/'
+    : '/'
+}
