@@ -11,12 +11,22 @@
 ██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║╚════╝██║  ██║██╔══██╗██║██╔══╝     ██║
 ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╔╝      ██████╔╝██║  ██║██║██║        ██║
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝       ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝
-
-
           </pre></div></router-link>
-        <p>Sublime Sci-Fi Flash Fiction</p>
-        <p>by <a href="https://yooksel.com/">Hamid Yuksel</a></p>
+        <p>A Sublime Sci-Fi Flash Fiction</p>
+        <p>by <a class="personal" href="https://yooksel.com/">Hamid Yuksel</a></p>
         <ol class="stories">
+          <li class="story">
+            <router-link to="/cactuscereal">The Machine</router-link>
+          </li>
+          <li class="story">
+            <router-link to="/chimera">The Journey</router-link>
+          </li>
+          <li class="story">
+            <router-link to="/dreamsofamonster">The Gates</router-link>
+          </li>
+          <li class="story">
+            <router-link to="/thelastkingbalthazar">The Last King Balthazar</router-link>
+          </li>
           <li class="story">
             <router-link to="/cactuscereal">Cactus Cereal</router-link>
           </li>
@@ -27,7 +37,13 @@
             <router-link to="/dreamsofamonster">Dreams of a Monster</router-link>
           </li>
           <li class="story">
-            <router-link to="/thelastkingbalthazar">The Last King Balthazar</router-link>
+            <router-link to="/thelastkingbalthazar">The Last King</router-link>
+          </li>
+          <li class="story">
+            <router-link to="/dreamsofamonster">The Dreams</router-link>
+          </li>
+          <li class="story">
+            <router-link to="/thelastkingbalthazar">The Convergence</router-link>
           </li>
         </ol>
       </div>
@@ -40,6 +56,10 @@
   #app {
     font-family: 'VT323', monospace;
     font-style: normal;
+  }
+
+  a {
+    text-decoration: none;
   }
 
   a:visited {
@@ -73,4 +93,13 @@
     margin-bottom: 8px;
     text-align: left;
   }
+
+  .story:hover {
+    background-color: blue;
+  }
+
+  .personal:hover {
+    text-decoration: underline;
+  }
+
 </style>
