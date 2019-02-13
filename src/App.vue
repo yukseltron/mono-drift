@@ -5,17 +5,18 @@
         <router-link to="/">
           <div class="title"><pre>
 
-   ███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗       ██████╗ ██████╗ ██╗███████╗████████╗
-    ████╗ ████║██╔═══██╗████╗  ██║██╔═══██╗      ██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝
-  ██╔████╔██║██║   ██║██╔██╗ ██║██║   ██║█████╗██║  ██║██████╔╝██║█████╗     ██║
-   ██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║╚════╝██║  ██║██╔══██╗██║██╔══╝     ██║
-    ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╔╝      ██████╔╝██║  ██║██║██║        ██║
-      ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝       ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝
+███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗       ██████╗ ██████╗ ██╗███████╗████████╗
+████╗ ████║██╔═══██╗████╗  ██║██╔═══██╗      ██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝
+██╔████╔██║██║   ██║██╔██╗ ██║██║   ██║█████╗██║  ██║██████╔╝██║█████╗     ██║
+██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║╚════╝██║  ██║██╔══██╗██║██╔══╝     ██║
+██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╔╝      ██████╔╝██║  ██║██║██║        ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝       ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝
 
 
           </pre></div></router-link>
         <p>Sublime Sci-Fi Flash Fiction</p>
-        <ul class="stories">
+        <p>by <a href="https://yooksel.com/">Hamid Yuksel</a></p>
+        <ol class="stories">
           <li class="story">
             <router-link to="/cactuscereal">Cactus Cereal</router-link>
           </li>
@@ -28,7 +29,7 @@
           <li class="story">
             <router-link to="/thelastkingbalthazar">The Last King Balthazar</router-link>
           </li>
-        </ul>
+        </ol>
       </div>
     </div>
     <router-view/>
@@ -41,8 +42,14 @@
     font-style: normal;
   }
 
+  a:visited {
+    color: blue;
+  }
+
   .container {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .title {
@@ -56,7 +63,14 @@
     background-color: black;
   }
 
-  .story{
+  .stories{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .story {
+    margin-bottom: 8px;
     text-align: left;
   }
 </style>
