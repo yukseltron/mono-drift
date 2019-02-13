@@ -1,6 +1,7 @@
 <template>
  <div class="cactuscereal">
-   <pre>
+   <p>
+     <pre>
            ////\\\\
         ///C  a c  \\\
      ///   t   u s    \\\
@@ -20,28 +21,30 @@
           ||||
           ||||
           ||||
-
-    "If I were a constant feedback. The amount I could annoy you would astound you."
+      </pre>
+    "If I were a constant feedback. The amount I could annoy you would astound you."<br/><br/>
 
     "Would it really?"
 
-    I take my hand and stuff it down his throat. Pins and needles surround my hand. "What have you been eating?"
+    I take my hand and stuff it down his throat. Pins and needles surround my hand. "What have you been eating?"<br/><br/>
 
-    I take a big gulp and the hand sinks and stings further. With a clogged throat I mutter a "Cactus cereal".
+    I take a big gulp and the hand sinks and stings further. With a clogged throat I mutter a "Cactus cereal".<br/><br/>
 
-    "Hmmm. I’ve heard of the nutritional value. Lots of fiber. Where did you find this? I should make note for next time I go shopping. It's not everyday I learn something new."
+    "Hmmm. I’ve heard of the nutritional value. Lots of fiber. Where did you find this? I should make note for next time I go shopping. It's not everyday I learn something new."<br/><br/>
 
-    Thinking back, I recall the faded plaster board advertisement screaming at me. Doing its best to make Asparagus milk seem appealing. "IT WILL CHANGE YOUR WORLD". I doubted it. Instead, "I came across this quaint passerby. She was a wandering lemonade stand salesman."
+    Thinking back, I recall the faded plaster board advertisement screaming at me. Doing its best to make Asparagus milk seem appealing. "IT WILL CHANGE YOUR WORLD". I doubted it. Instead, "I came across this quaint passerby. She was a wandering lemonade stand salesman."<br/><br/>
 
-    "How was the lemonade?"
+    "How was the lemonade?"<br/><br/>
 
-    "I didn't have any. She didn't have any either. You see, she only sold lemonade stands. But only in the wandering variety."
+    "I didn't have any. She didn't have any either. You see, she only sold lemonade stands. But only in the wandering variety."<br/><br/>
 
-    The story gets weirder, huh? What kind of stand wanders? All this is makes no sense. I can't even remember the story he was trying to tell me.
+    The story gets weirder, huh? What kind of stand wanders? All this is makes no sense. I can't even remember the story he was trying to tell me.<br/><br/>
 
-    "Alright, continue."
+    "Alright, continue."<br/><br/>
 
-    "Oh right." What did happen? "She told me about how business was tough since the lemonade recession. Not enough children entering the job market at that age with enough capital apparently. The lemonade recession wasn't even the worst of it. Though it pales in comparison to how the Pomegranates plague. Glad that's over with. Almost as bad as the outbreak of Banana flu." Wait, I'm digressing. "Anyway, we started talking." She was kind of cute. "
+    "Oh right." What did happen? "She told me about how business was tough since the lemonade recession. Not enough children entering the job market at that age with enough capital apparently.<br/>
+   The lemonade recession wasn't even the worst of it. Though it pales in comparison to how the Pomegranates plague. Glad that's over with. Almost as bad as the outbreak of Banana flu." <br/>
+   Wait, I'm digressing. "Anyway, we started talking." She was kind of cute. "<br/><br/>
 
     Crap. This is the part where I return to the initial topic. But my mind sorta started trailing off in separate directions, now I’m completely lost.
 
@@ -72,6 +75,12 @@
     “You both have failed.”
 
     In a breath this simulation has ended. Regrettably, the two failed to ensure their progress. RETURN TO LEVEL 0 AND PLEASE PLAY AGAIN.
-   </pre>
+   </p>
  </div>
 </template>
+<style>
+  .cactuscereal {
+    font-family: monospace;
+  }
+</style>
+

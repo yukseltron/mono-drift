@@ -1,5 +1,5 @@
 <template>
-  <img src="pillars.png"/>
+  <img src="/src/assets/pillars.png"/>
 </template>
 <style>
 </style>
