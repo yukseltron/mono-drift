@@ -14,38 +14,38 @@
           </pre></div></router-link>
         <p>A Sublime Sci-Fi Flash Fiction</p>
         <p>by <a class="personal" href="https://yooksel.com/">Hamid Yuksel</a></p>
-        <ol class="stories">
-          <li class="story">
-            <router-link to="/cactuscereal">The Machine</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/chimera">The Journey</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/dreamsofamonster">The Gates</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/thelastkingbalthazar">The Last King Balthazar</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/cactuscereal">Cactus Cereal</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/chimera">Chimera</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/dreamsofamonster">Dreams of a Monster</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/thelastkingbalthazar">The Last King</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/dreamsofamonster">The Dreams</router-link>
-          </li>
-          <li class="story">
-            <router-link to="/thelastkingbalthazar">The Convergence</router-link>
-          </li>
-        </ol>
+        <div class="stories">
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">The Last Accident</p>
+          <p class="chapter-description">Massive funding. A clandestine machine. What does it do?</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Haste Maker</p>
+          <p class="chapter-description">Time is short. Decisions are made. No time to think.</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Escape Journey</p>
+          <p class="chapter-description">It will take them somewhere far away. Where no one has gone.</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Sustenance</p>
+          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Until Then</p>
+          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Bliss and Anger</p>
+          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Like Mountains</p>
+          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">In Defeat</p>
+          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Maybe It's You</p>
+          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          </router-link>
+          <router-link class="story" to="/cactuscereal"><p class="chapter-name">End Convergence</p>
+          <p class="chapter-description">Awakening in a new place. Far from where he should be.</p>
+          </router-link>
+        </div>
       </div>
     </div>
     <router-view/>
@@ -86,16 +86,35 @@
   .stories{
     display: flex;
     flex-direction: column;
-    align-items: center;
   }
 
   .story {
-    margin-bottom: 8px;
-    text-align: left;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -25px;
   }
 
-  .story:hover {
+  .story:hover .chapter-description{
     background-color: blue;
+  }
+
+  .story:hover .chapter-name{
+    border-color: blue;
+  }
+
+  .chapter-name {
+    width: 150px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    padding-left: 2px;
+  }
+
+  .chapter-description {
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 500px;
   }
 
   .personal:hover {
