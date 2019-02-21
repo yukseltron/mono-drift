@@ -5,39 +5,39 @@
         <router-link to="/">
           <div class="title"><p>
 ████╗ ████║██╔═══██╗████╗  ██║██╔═══██╗      ██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝
-██╔████╔██║██║   ██║██╔██╗ ██║██║<p>--MONO DRIFT - -- -- -- - - - - -     -      -  A Sublime Sci-Fi Flash Fiction</p>   ██║█████╗██║  ██║██████╔╝██║█████╗     ██║
+██╔████╔██║██║   ██║██╔██╗ ██║██║<p>----------    -MONO DRIFT - --      -  A Sublime Sci-Fi Flash Fiction</p>   ██║█████╗██║  ██║██████╔╝██║█████╗     ██║
 
           </div></router-link>
         <a href="https://yooksel.com/"><p class="author">@AUTHOR Hamid Yuksel</p></a>
         <div class="stories">
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">The Last Accident</p>
+          <router-link class="story" to="/s1" v-scroll-to="'#story-mode'"><p class="chapter-name">The Last Accident</p>
           <p class="chapter-description">Massive funding. A clandestine machine. What does it do?</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Haste Maker</p>
+          <router-link class="story" to="/s2" v-scroll-to="'#story-mode'"><p class="chapter-name">Haste Maker</p>
           <p class="chapter-description">Time is short. Decisions are made. No time to think.</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Escape Journey</p>
+          <router-link class="story" to="/s3" v-scroll-to="'#story-mode'"><p class="chapter-name">Escape</p>
           <p class="chapter-description">It will take them somewhere far away. Where no one has gone.</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Sustenance</p>
+          <router-link class="story" to="/s4" v-scroll-to="'#story-mode'"><p class="chapter-name">Suspension Theory</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Until Then</p>
+          <router-link class="story" to="/s5" v-scroll-to="'#story-mode'"><p class="chapter-name">Unlimited Tomorrow United</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Bliss and Anger</p>
+          <router-link class="story" to="/s6" v-scroll-to="'#story-mode'"><p class="chapter-name">Bless The Angry</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Like Mountains</p>
+          <router-link class="story" to="/s7" v-scroll-to="'#story-mode'"><p class="chapter-name">Like A Mountain</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">In Defeat</p>
+          <router-link class="story" to="/s8" v-scroll-to="'#story-mode'"><p class="chapter-name">In Defiance</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Maybe It's You</p>
+          <router-link class="story" to="/s9" v-scroll-to="'#story-mode'"><p class="chapter-name">Maybe It's You</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">End Convergence</p>
+          <router-link class="story" to="/s10" v-scroll-to="'#story-mode'"><p class="chapter-name">End Convergence</p>
           <p class="chapter-description">Awakening in a new place. Far from where he should be.</p>
           </router-link>
         </div>
