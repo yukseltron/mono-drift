@@ -10,40 +10,41 @@
           </div></router-link>
         <a href="https://yooksel.com/"><p class="author">@AUTHOR Hamid Yuksel</p></a>
         <div class="stories">
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">The Last Accident</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">The Last Accident</p>
           <p class="chapter-description">Massive funding. A clandestine machine. What does it do?</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Haste Maker</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Haste Maker</p>
           <p class="chapter-description">Time is short. Decisions are made. No time to think.</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Escape Journey</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Escape Journey</p>
           <p class="chapter-description">It will take them somewhere far away. Where no one has gone.</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Sustenance</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Sustenance</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Until Then</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Until Then</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Bliss and Anger</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Bliss and Anger</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Like Mountains</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Like Mountains</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">In Defeat</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">In Defeat</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">Maybe It's You</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">Maybe It's You</p>
           <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
           </router-link>
-          <router-link class="story" to="/cactuscereal"><p class="chapter-name">End Convergence</p>
+          <router-link class="story" to="/cactuscereal" v-scroll-to="'#story-mode'"><p class="chapter-name">End Convergence</p>
           <p class="chapter-description">Awakening in a new place. Far from where he should be.</p>
           </router-link>
         </div>
       </div>
     </div>
-    <router-view/>
+    <div id="story-mode"><router-view/></div>
+    <p class="back-to-top" v-scroll-to="'.title'">BACK TO TOP ^^^</p>
   </div>
 </template>
 <script>export default {name: 'App'}</script>
@@ -128,6 +129,19 @@
   .author:hover  {
     background-color: blue;
     border-color: blue;
+    color: white;
+  }
+
+  .back-to-top {
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 200%;
+    color: blue
+  }
+
+  .back-to-top:hover {
+    background-color: blue;
     color: white;
   }
 
