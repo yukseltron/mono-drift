@@ -3,17 +3,15 @@
     <div class="container">
       <div>
         <router-link to="/">
-          <div class="title"><pre>
-
-███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗       ██████╗ ██████╗ ██╗███████╗████████╗
-████╗ ████║██╔═══██╗████╗  ██║██╔═══██╗      ██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝
-██╔████╔██║██║   ██║██╔██╗ ██║██║   ██║█████╗██║  ██║██████╔╝██║█████╗     ██║
-██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║╚════╝██║  ██║██╔══██╗██║██╔══╝     ██║
-██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╔╝      ██████╔╝██║  ██║██║██║        ██║
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝       ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝
-          </pre></div></router-link>
-        <p>A Sublime Sci-Fi Flash Fiction</p>
-        <p>by <a class="personal" href="https://yooksel.com/">Hamid Yuksel</a></p>
+          <div class="title"><p>
+███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗       ██████╗ ██████╗ ██╗███████╗████████╗</br>
+████╗ ████║██╔═══██╗████╗  ██║██╔═══██╗      ██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝</br>
+██╔████╔██║██║   ██║██╔██╗ ██║██║<p>----- MONO DRIFT - -- -- -- - - - - -     -      -  A Sublime Sci-Fi Flash Fiction</p>   ██║█████╗██║  ██║██████╔╝██║█████╗     ██║</br>
+██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║╚════╝██║  ██║██╔══██╗██║██╔══╝     ██║</br>
+██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╔╝      ██████╔╝██║  ██║██║██║        ██║</br>
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝       ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝</br>
+          </p></div></router-link>
+        <a href="https://yooksel.com/"><p class="author">@AUTHOR Hamid Yuksel</p></a>
         <div class="stories">
           <router-link class="story" to="/cactuscereal"><p class="chapter-name">The Last Accident</p>
           <p class="chapter-description">Massive funding. A clandestine machine. What does it do?</p>
@@ -56,6 +54,7 @@
   #app {
     font-family: 'VT323', monospace;
     font-style: normal;
+    font-size: 150%;
   }
 
   a {
@@ -69,13 +68,15 @@
   .container {
     display: flex;
     flex-direction: column;
-    align-items: center;
   }
 
   .title {
     color: black;
-    display: inline-block;
-    font-size: 2vmin;
+    padding-bottom: 10px;
+    margin-bottom: -10px;
+    font-size: 200%;
+    margin-top: -70px;
+    margin-left: -5px;
   }
 
   .title:hover {
@@ -103,22 +104,34 @@
   }
 
   .chapter-name {
-    width: 150px;
     border-style: solid;
     border-width: 1px;
     border-color: white;
-    padding-left: 2px;
+    padding: 50px 50px 50px 50px;
+    width: 200px;
   }
 
   .chapter-description {
     color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 10px;
     padding-right: 10px;
-    width: 500px;
+    width: 1500px;
   }
 
-  .personal:hover {
-    text-decoration: underline;
+  .author {
+    border-bottom: 1px solid;
+    border-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+  }
+
+  .author:hover  {
+    background-color: blue;
+    border-color: blue;
+    color: white;
   }
 
 </style>
