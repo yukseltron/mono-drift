@@ -1,164 +1,126 @@
 <template>
  <div>
    <p class="story-script">
-     ============================= === == = = =   =    =   <br/>
-     ||	================ = == = == =   <br/>
-     || Haste    Maker   <br/>
-     ||      	========== =	==	==	=   <br/>
-     =============== =  ==    =    =   <br/>
-     <br/>   <br/>   <br/>
 
-     Do you remember Childe? Do you remember the past?   <br/>
-     The forgotten trees that gave no root? The aquatics before their gills?   <br/>
-     The water before it fell from skies? The crisp ground that knew no dirt?   <br/>
-   <br/>
-   <br/>
-     No, Phather.   <br/>
-     It was before I knew you. Before the awakening.   <br/>
-     I've only empathized about it in the supertexts.   <br/>
-     They claim much beauty.   <br/>
-
-
-     Ah, but what about before then? Long before.   <br/>
-     So far back, we can only fathom to comprehend it?   <br/>
-     Back when our ideas were small, and our wills were molecules.   <br/>
-   <br/>
-   <br/>
-     I don't understand.
-   <br/>
-   <br/>
-     You don't need to.   <br/>
-     Not really.   <br/>
-     I mean how can you.   <br/>
-     It's not your fault.   <br/>
-     Some things must be shown.   <br/>
-   <br/>
-   <br/>
-     You're scaring me.   <br/>
-     No one has gone that far back.   <br/>
-     It's prohibited.   <br/>
-     The Pact states-   <br/>
-   <br/>
-   <br/>
-     The Pact won't know.   <br/>
-     They cannot.   <br/>
-     They've lost the power to do so.   <br/>
-     Maybe I have as well.   <br/>
-     Maybe it's why I brought you here.   <br/>
-     Maybe I need to find out.   <br/>
-   <br/>   <br/>
-
-     But why me?   <br/>
-     Why choose me?   <br/>
-   <br/>
-     Because I trust you.   <br/>
-     From our past together, I know how you are.   <br/>
-     I know you yearn to find out, but just like me, you are afraid.   <br/>
-     Not this time.   <br/>
-     My courage only exists if I'm with you.   <br/>
-   <br/>   <br/>
-
-     The machine shakes and grinds.   <br/>
-     Singing halos dance in cascades.   <br/>
-     The aura of time bends and folds in convex and complex patterns.   <br/>
-     Geometry of the 5th degree chains together, unweaving the gooey fabric.   <br/>
-     The bridge is born, held aloft by  constantly repairing chaotic crystals.   <br/>
-     The void opens. Bleak in anger for its disturbance.   <br/>
-     A pain unpronounceable.   <br/>
-     In the past, the machine would rip and tear until the void gave way or destroyed it.   <br/>
-     In eons since, it now does its best to slip through unnoticed. The void cannot retaliate as it once did. Unless, you dared to breach closer.   <br/>
-
-   <br/>   <br/>
-     Childe, I have dreamed of this for so long.   <br/>
-     My legs have been so weak believing I'd never be where we are now.   <br/>
-   <br/>   <br/>
-
-     I don't know, this is very unsettling.   <br/>
-     Maybe the Pact was right.   <br/>
-
-   <br/>   <br/>
-     Fuck the Pact!   <br/>
-     They won't stop us! They can't find us.   <br/>
-   <br/>   <br/>
-
-     With that, he cranks the machine closer, past the warnings.   <br/>
-   <br/>   <br/>
-
-     Sublime barriers ricochet as the machine pierces through.   <br/>
-     The vibrant rainbows leak out in frustration, jettisoning through the path of least resistance.   <br/>
-     The void schisms and postulates uncomfortably.   <br/>
-   <br/>   <br/>
-
-     I ask myself if I dare look up, into the void.   <br/>
-     I know where to gaze, my whole body knows.   <br/>
-     The one direction I must avoid.   <br/>
-     But how can I?   <br/>
-     Especially now, when I've already thrown my life into the abyss.   <br/>
-     If I live, I'll never die again.   <br/>
-     I steady my hands, and surrender to my inhibitions.   <br/>
-   <br/>
-   <br/>
-     This is too much!   <br/>
-     I can feel myself crumbling!   <br/>
-     Stop please!   <br/>
-   <br/>   <br/>
-     I don't think I can.   <br/>
-     I don't know anymore.   <br/>
-   <br/>
-     He looks onward, acting oblivious to Childe's complaints.   <br/>
-     It's too late.   <br/>
-     There is no bridge, no era to return to.   <br/>
-     This moment was made concrete long ago.   <br/>
-   <br/>
-   <br/>
-     He's gone mad.   <br/>
-     I can see it in his shaky, unfastened eyes.   <br/>
-     Nothing else matters to him now.   <br/>
-     After all, is there anything else here remaining?   <br/>
-     Where are we?   <br/>
-     What have we become?   <br/>
-     Before I can think, I find myself crying.   <br/>
-     I submit to my fears, to my demise.   <br/>
-     An overwhelming rush of neurons firing in spasms, unable to comprehend the magnitude.   <br/>
-     God, protect me. I am weak after all.   <br/>
-   <br/>
-   <br/>
-     Another voice braves the calm.   <br/>
-     It beckons me to look further, deeper inwards.   <br/>
-     The trees retract their roots.   <br/>
-     The beasts lose their bones.   <br/>
-     The airs coalesces.   <br/>
-     The clouds forget how to fly.   <br/>
-     God give me strength, I must continue.   <br/>
-
-   <br/>   <br/>
-     Am I dead?   <br/>
-     Something makes me think so.   <br/>
-     I can feel the ground beneath me, but I wouldn't call it "ground".   <br/>
-     It's no ground I know.   <br/>
-     It's not what you would call "ground" either.   <br/>
-     It's hard to explain.   <br/>
-     Imagine the thing you define as ground, and banish it.   <br/>
-     Then imagine you are where I am right now.   <br/>
-     It's impossible I know, but you understand why I can't explain it to you.   <br/>
-
-   <br/>   <br/>
-     Am I alive?   <br/>
-     I want to believe so.   <br/>
-     I can feel the rush of the first winds.   <br/>
-     It's a soothing caress so alien to what I've known.   <br/>
-     Yet so familiar.   <br/>
-     My memory prongs at how the air feels.   <br/>
-     It fires the same synapses in me, but something is off.   <br/>
-     Something is alien.   <br/>
-     Its almost as though my skin is causing the air to react.   <br/>
-     As though my age is trumping its age.   <br/>
-
-   <br/>   <br/>
-     The machine dissipates.   <br/>
-
-   <br/>   <br/>
-     The calm returns.   <br/>
+     ||<br/>
+     |<br/>
+     ||<br/>
+     <br/>
+     |||||<br/>
+     <br/>
+     ||||||||<br/>
+     ||<br/>
+     ||||<br/>
+     ||||||<br/>
+     |||<br/>
+     ||<br/>
+     <br/>
+     H aste?    M aker?<br/>
+     ||||||||||||||||||||||||||||||||||||||||||||||||<br/>
+     <br/>
+     <br/>
+     <br/>
+     <br/>
+     "ERROR, IT CANNOT BE READ. EXPIRED SINCE: NINE-A-TWELVE.<br/>
+     CENTURY A-SIX"<br/>
+     <br/>
+     <br/>
+     With a whirr, the machine spits back out a small grey card.<br/>
+     The card is chipped and bent at the corners. <br/>
+     Parts of it still retain its gloss, while most of it is skinned, exposing thin strands of plastic bleached by the sun pealing off.<br/>
+     <br/>
+     <br/>
+     With shaking fingers, he gingerly grabs the card, quickly grooms it to satisfy the machine's taste, and tries again.<br/>
+     <br/>
+     <br/>
+     "ERROR, IT CANNOT BE READ. EXPIRED SINCE: NINE-A-TWELVE. CENTURY A-SIX"<br/>
+     <br/>
+     <br/>
+     The repeated reply frustrates the man, and he wrenches a fist loose from his pockets.<br/>
+     With a tightened grip, a flimsy punch is directed to the shiny metal screen of the machine.<br/>
+     The machine remains unaffected and apathetic. <br/>
+     <br/>
+     <br/>
+     In response it simply ejects the card back out. The man grabs it again and stuffs it away. He has other ideas.<br/>
+     <br/>
+     <br/>
+     "HELLO, PLEASE ENTER YOUR CARD."<br/>
+     <br/>
+     <br/>
+     Rummaging through his bag, a faint howl is heard in a distance. Barely audible, it grips the man's fear and attention. <br/>
+     He listens diligently to confirm his fears, but the howl fades out. Anxious, he becomes frantic as he tosses all non essentials from his bag,<br/>
+     looking for whatever he needs.<br/>
+     <br/>
+     <br/>
+     The machine looks on.<br/>
+     Its screen, dulled from constant bleaching from the sun, emits but a soft glow as the sky darkens for the looming night.<br/>
+     <br/>
+     <br/>
+     As he searches through his bag, he picks things he deems will be useful in the near future.<br/>
+     A gun, a small ring, and a device unknown to most.<br/>
+     <br/>
+     <br/>
+     The soft howls return from the distance. No need for doubt this time, his instincts tell him to be wary.<br/>
+     <br/>
+     <br/>
+     They're coming.<br/>
+     <br/>
+     <br/>
+     A quick check to reassure himself there's ammunition, and the gun is put to his side, ready for use.<br/>
+     He places the ring between his front teeth, <br/>
+     and bites down hard. Hands shaking, he grips the mysterious device and activates it. Or maybe it activated itself. <br/>
+     There was no clear action for how he did it. For an observer, it's as if the device just woke on its own.<br/>
+     <br/>
+     <br/>
+     Thin tendrils emerge from the device and wrap around his wrist.<br/>
+     They're a cool black and glimmer from the machine's light. <br/>
+     A snakes belly slithering to safety. Together they seamlessly tighten.<br/>
+     The man can feel his blood halt as his hand goes numb. <br/>
+     The device flips open with a static whir. A buzz that stabs his hears.<br/>
+     It barely covers the sounds of hounds having caught the scent of their prey.<br/>
+     <br/>
+     <br/>
+     As the buzzing intensifies, it starts spinning rapidly.<br/>
+     The force increases drastically, and the man realizes he is no longer gripping the device. <br/>
+     The tendrils themselves make sure he never lets go.<br/>
+     His teeth clamp down further into the ring as it too starts vibrating in response to the device.<br/>
+     It does its best to wrestle free, but the man is more desperate to hold it in place.<br/>
+     He closes his eyes as he lets the device do its magic. He's done this before, but it never gets easier.<br/>
+     He never thought he'd have to use it so soon again.<br/>
+     <br/>
+     <br/>
+     Roars and howls come crashing through the horizon.<br/>
+     A stampede of bloodthirst.<br/>
+     All unified in a single competitive goal to take the man down. Hounds and killers and machines.<br/>
+     They loom on their target, eager to grab hold of him.<br/>
+     The sight of the device, their true prize, pushes them to rush faster.<br/>
+     The man keeps his eyes shut, unwilling to turn and see them breathe down his neck.<br/>
+     Praying for the machine to take him away.<br/>
+     <br/>
+     <br/>
+     They come for him. Bearing teeth and knives.<br/>
+     Incapable of focusing on anything else.<br/>
+     Gaze fixed on the brink of insanity. Dying for the release.<br/>
+     <br/>
+     <br/>
+     A loud burst. Blinding light and heat erupting everywhere.<br/>
+     A fuzz that tickles and trickles through your brain, down your stem, all throughout your body.<br/>
+     <br/>
+     <br/>
+     He opens his eyes. He's gone. They're gone. It's all gone.<br/>
+     Why is he back here again? Why did he use the device? His hand is empty.<br/>
+     The device is gone. The black tendrils didn't even leave a mark.<br/>
+     What was he holding before?<br/>
+     <br/><br/>
+     The machine beeps at him.<br/>
+     <br/><br/>
+     "HELLO, PLEASE ENTER YOUR CARD."<br/>
+     <br/><br/>
+     Without thinking, he takes out his card and follows as instructed.<br/>
+     <br/><br/>
+     "THANK YOU, YOU'VE BEEN ACCEPTED. PLEASE WAIT TO ENTER."<br/>
+     <br/><br/>
+     The screen darkens and the machine changes life.<br/>
    </p>
  </div>
 </template>

@@ -14,31 +14,31 @@
           <p class="chapter-description">Massive funding. A clandestine machine. What does it do?</p>
           </router-link>
           <router-link class="story" to="/s2" v-scroll-to="'#story-mode'"><p class="chapter-name">Haste Maker</p>
-          <p class="chapter-description">Time is short. Decisions are made. No time to think.</p>
+          <p class="chapter-description">They're after you. Need to hurry. No time to think.</p>
           </router-link>
           <router-link class="story" to="/s3" v-scroll-to="'#story-mode'"><p class="chapter-name">Escape</p>
-          <p class="chapter-description">It will take them somewhere far away. Where no one has gone.</p>
+          <p class="chapter-description">Take us far way. Someplace no one has seen.</p>
           </router-link>
           <router-link class="story" to="/s4" v-scroll-to="'#story-mode'"><p class="chapter-name">Suspension Theory</p>
-          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          <p class="chapter-description">How did you allow a monstrosity of such scale?</p>
           </router-link>
-          <router-link class="story" to="/s5" v-scroll-to="'#story-mode'"><p class="chapter-name">Unlimited Tomorrow United</p>
-          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          <router-link class="story" to="/s5" v-scroll-to="'#story-mode'"><p class="chapter-name">Understanding The Machine</p>
+          <p class="chapter-description">Please uncouple the gamma link modules. They're pesty.</p>
           </router-link>
           <router-link class="story" to="/s6" v-scroll-to="'#story-mode'"><p class="chapter-name">Bless The Angry</p>
-          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          <p class="chapter-description">I can feel it. Inside me. What do I do now?</p>
           </router-link>
-          <router-link class="story" to="/s7" v-scroll-to="'#story-mode'"><p class="chapter-name">Like A Mountain</p>
-          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          <router-link class="story" to="/s7" v-scroll-to="'#story-mode'"><p class="chapter-name">Limited Tomorrow</p>
+          <p class="chapter-description">Put your trust and future in our capable hands.</p>
           </router-link>
           <router-link class="story" to="/s8" v-scroll-to="'#story-mode'"><p class="chapter-name">In Defiance</p>
-          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          <p class="chapter-description">If we were to obey the rules, we'd never have come this far.</p>
           </router-link>
           <router-link class="story" to="/s9" v-scroll-to="'#story-mode'"><p class="chapter-name">Maybe It's You</p>
-          <p class="chapter-description">A businessman recruits the best to build a mysterious machine</p>
+          <p class="chapter-description">Maybe it isn't.</p>
           </router-link>
-          <router-link class="story" to="/s10" v-scroll-to="'#story-mode'"><p class="chapter-name">End Convergence</p>
-          <p class="chapter-description">Awakening in a new place. Far from where he should be.</p>
+          <router-link class="story" to="/s10" v-scroll-to="'#story-mode'"><p class="chapter-name">End Converge</p>
+          <p class="chapter-description">Awake in a new place. Far from where he should be.</p>
           </router-link>
         </div>
       </div>

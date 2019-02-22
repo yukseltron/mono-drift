@@ -4,9 +4,9 @@ import thelastaccident from '@/components/thelastaccident'
 import hastemaker from '@/components/hastemaker'
 import escape from '@/components/escape'
 import suspensiontheory from '@/components/suspensiontheory'
-import unlimitedtomorrowunited from '@/components/unlimitedtomorrowunited'
+import understandingthemachine from '@/components/understandingthemachine'
 import blesstheangry from '@/components/blesstheangry'
-import likeamountain from '@/components/likeamountain'
+import limitedtomorrow from '@/components/limitedtomorrow'
 import indefiance from '@/components/indefiance'
 import maybeitsyou from '@/components/maybeitsyou'
 import endconvergence from '@/components/endconvergence'
@@ -37,8 +37,8 @@ export default new Router({
     },
     {
       path: '/s5',
-      name: 'unlimitedtomorrowunited',
-      component: unlimitedtomorrowunited
+      name: 'understandingthemachine',
+      component: understandingthemachine
     },
     {
       path: '/s6',
@@ -47,8 +47,8 @@ export default new Router({
     },
     {
       path: '/s7',
-      name: 'likeamountain',
-      component: likeamountain
+      name: 'limitedtomorrow',
+      component: limitedtomorrow
     },
     {
       path: '/s8',
