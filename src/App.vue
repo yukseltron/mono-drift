@@ -5,7 +5,7 @@
         <router-link to="/">
           <div class="title"><p>
 ████╗ ████║██╔═══██╗████╗  ██║██╔═══██╗      ██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝
-██╔████╔██║██║   ██║██╔██╗ ██║██║<p>----------    -MONO DRIFT - --      -  A Sublime Sci-Fi Flash Fiction</p>   ██║█████╗██║  ██║██████╔╝██║█████╗     ██║
+██╔████╔██║██║   ██║██╔██╗ ██║██║<p>--  -  --    -MONO DRIFT - --      -  A Sublime Sci-Fi Flash Fiction</p>   ██║█████╗██║  ██║██████╔╝██║█████╗     ██║
 
           </div></router-link>
         <a href="https://yooksel.com/"><p class="author">@AUTHOR Hamid Yuksel</p></a>
