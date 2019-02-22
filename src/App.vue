@@ -121,8 +121,8 @@
   .author {
     border-bottom: 1px solid;
     border-color: black;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     padding-left: 50px;
   }
 
@@ -133,6 +133,7 @@
   }
 
   .back-to-top {
+    border-top: 1px solid black;
     padding-left: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -143,6 +144,7 @@
   .back-to-top:hover {
     background-color: blue;
     color: white;
+    border-top-color: blue;
   }
 
 </style>
