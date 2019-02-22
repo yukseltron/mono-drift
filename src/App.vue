@@ -69,7 +69,7 @@
   }
 
   .title {
-    color: black;
+    color: blue;
     padding-bottom: 10px;
     margin-bottom: -10px;
     font-size: 200%;
@@ -120,7 +120,7 @@
 
   .author {
     border-bottom: 1px solid;
-    border-color: black;
+    border-color: blue;
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 50px;
@@ -133,7 +133,7 @@
   }
 
   .back-to-top {
-    border-top: 1px solid black;
+    border-top: 1px solid blue;
     padding-left: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
